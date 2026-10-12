@@ -1,0 +1,36 @@
+{
+  "python": "3.12",
+  "tests_passed": 8,
+  "checks": [
+    "Complete weekly cohort and zero-test-sales retention",
+    "Chronological selection/calibration/test blocks",
+    "Prior-history forecast reproduction and future perturbation",
+    "Model choice and final-test metric reconciliation",
+    "Calibration buffers from prior windows",
+    "Stock flow and lead-time conservation",
+    "Executed SQL scenario reconciliation",
+    "Dashboard interactions and zero-sales scenario"
+  ],
+  "output_sha256": {
+    "outputs/inventory_trajectories.csv.gz": "3ce169714accf4c3b5bf89f2e1662f604358eaced2632b6b73bb034b37ec3c9d",
+    "outputs/inventory_policy_metrics.csv": "04b6c9b00e759431317a48571aad67b9e91ea0aa5bd47bd5557e15a953ec0ee5",
+    "outputs/historical_end_forecast.csv": "d78096fe68de380ccb202893cf7cb16c1260e18f0df4f47d95f87f4ffd8b3cea",
+    "outputs/selected_models.csv": "592e05783ce5074a92ddcff2c07c6e2421483d3d42b6191784254e98ecb55795",
+    "outputs/selection_scores.csv": "1dc19bac0203a31e98a8e50aec585ead8a66c666fb4b6d343adc7725802ddc19",
+    "outputs/inventory-tradeoff.svg": "9ae59caea96e45dae0175962c8847cd59a1d3356ec05ec7fae0b1a6374df1ecc",
+    "outputs/all_rolling_predictions.csv.gz": "728ee8019c6239efdda117a83a8a4159937cd317c3045c27851f76870a85a563",
+    "outputs/test_band_coverage.csv": "15f7619b909332799085cadd9c96eb60b9463b0fb3eff2053ec057f0d120e066",
+    "outputs/sku_cohort.csv": "cee49d32ad634181e094215d7d759d7c26641afe323efd206f058671836092ef",
+    "outputs/calibrated_buffers.csv": "a8d18db33061e3307d946eed65d4d8a0481b1fd98f913218d7be51805fc4a482",
+    "outputs/calibration_errors.csv": "522ea00ad27911f40501e826679ca59f9d06d62c9cda50d7614afb6b03b8b557",
+    "outputs/inventory_sku_metrics.csv": "445654fc30bf2f1a6d70268aacd793e7dce0db2fefc2aa932e298bf8f70437dc",
+    "outputs/test_metrics.csv": "54b116409d28d45dc2e1603ba199cdf4cf2256deac515817ec8523dfa155517b",
+    "outputs/cleaning_audit.csv": "cc0ee6b9b50581bdec67006d7229af76af70ec6d377e2598454be2bb6573f4a8",
+    "outputs/summary.json": "d069a3b1c6c57d1943cb34e826a061f3c99b051927531761f21cc4d9d3aeb00d",
+    "outputs/forecast-comparison.svg": "acb5ce91946d971ed65e6751ea9744a4abf527f80c794dd1e0924d15ffd8dc66",
+    "outputs/data_summary.json": "45cf227159c8b18a9418c679046a246de035d79581c549c1393eb97aeb1572cb",
+    "outputs/weekly_sales.csv": "cf6fb505acdc62f2cd84af1b3db2647be8472a51916ea91dbad5afd857bdfcf8",
+    "outputs/test_selected_predictions.csv": "84ca7239fa5614c96e5cb092f277fdd3b5c741dfec87def24289f8663746993e",
+    "outputs/global_selection_scores.csv": "367bb2dd9208d79aa5122b552ddd73fc6f25691809e6bebdb0989a2a2bf19095"
+  }
+}

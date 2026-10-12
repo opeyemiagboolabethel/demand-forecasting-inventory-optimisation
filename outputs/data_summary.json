@@ -1,0 +1,22 @@
+{
+  "source_rows": 1067371,
+  "retained_rows": 922753,
+  "exact_duplicate_source_lines_retained": 34335,
+  "complete_weeks": 104,
+  "start_week": "2009-12-07",
+  "last_week": "2011-11-28",
+  "selected_skus": 20,
+  "eligible_training_skus": 1396,
+  "initial_train_weeks": 64,
+  "selection_weeks": 12,
+  "calibration_weeks": 12,
+  "test_weeks": 16,
+  "selection_start": "2011-02-28",
+  "calibration_start": "2011-05-23",
+  "test_start": "2011-08-15",
+  "first_omitted_partial_start": "2009-12-01",
+  "last_omitted_partial_start": "2011-12-05",
+  "selected_training_unit_share": 0.12369462610524865,
+  "missing_customer_ids_policy": "Customer ID is not read or used; anonymous valid sales remain included.",
+  "duplicate_policy": "Exact duplicate lines are counted but retained; the source does not prove they are errors."
+}

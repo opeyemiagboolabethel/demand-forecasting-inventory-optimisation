@@ -1,0 +1,165 @@
+{
+  "source_rows": 1067371,
+  "retained_rows": 922753,
+  "exact_duplicate_source_lines_retained": 34335,
+  "complete_weeks": 104,
+  "start_week": "2009-12-07",
+  "last_week": "2011-11-28",
+  "selected_skus": 20,
+  "eligible_training_skus": 1396,
+  "initial_train_weeks": 64,
+  "selection_weeks": 12,
+  "calibration_weeks": 12,
+  "test_weeks": 16,
+  "selection_start": "2011-02-28",
+  "calibration_start": "2011-05-23",
+  "test_start": "2011-08-15",
+  "first_omitted_partial_start": "2009-12-01",
+  "last_omitted_partial_start": "2011-12-05",
+  "selected_training_unit_share": 0.12369462610524865,
+  "missing_customer_ids_policy": "Customer ID is not read or used; anonymous valid sales remain included.",
+  "duplicate_policy": "Exact duplicate lines are counted but retained; the source does not prove they are errors.",
+  "models": [
+    "Recent mean (8 weeks)",
+    "Seasonal naive (52 weeks)",
+    "Exponential smoothing (alpha .2)",
+    "Croston SBA (alpha .1)",
+    "Ridge lag regression"
+  ],
+  "validation_champion": "Recent mean (8 weeks)",
+  "global_selection_scores": [
+    {
+      "model": "Croston SBA (alpha .1)",
+      "mae": 279.591015725105,
+      "wape": 0.6504700876707337,
+      "bias_ratio": 0.024209032332389784,
+      "mase_lag1": 0.6615679088858689
+    },
+    {
+      "model": "Exponential smoothing (alpha .2)",
+      "mae": 254.54450072609774,
+      "wape": 0.5921992281261301,
+      "bias_ratio": -0.10640005290086602,
+      "mase_lag1": 0.6053495330445727
+    },
+    {
+      "model": "Recent mean (8 weeks)",
+      "mae": 246.95104166666667,
+      "wape": 0.5745330024525247,
+      "bias_ratio": -0.14917748330247482,
+      "mase_lag1": 0.5888813987994269
+    },
+    {
+      "model": "Ridge lag regression",
+      "mae": 312.2377703706045,
+      "wape": 0.7264229479632904,
+      "bias_ratio": 0.13307158148174228,
+      "mase_lag1": 0.7320240075631159
+    },
+    {
+      "model": "Seasonal naive (52 weeks)",
+      "mae": 448.5125,
+      "wape": 1.043466881222191,
+      "bias_ratio": 0.29454531354511,
+      "mase_lag1": 1.0517938402487927
+    }
+  ],
+  "selected_model_counts": {
+    "Ridge lag regression": 7,
+    "Recent mean (8 weeks)": 6,
+    "Croston SBA (alpha .1)": 4,
+    "Seasonal naive (52 weeks)": 2,
+    "Exponential smoothing (alpha .2)": 1
+  },
+  "test_metrics": [
+    {
+      "model": "Croston SBA (alpha .1)",
+      "mae": 277.9940561446385,
+      "wape": 0.6036828287806263,
+      "bias_ratio": -0.10885532659069759,
+      "mase_lag1": 0.6824261191578017
+    },
+    {
+      "model": "Exponential smoothing (alpha .2)",
+      "mae": 274.92023720453227,
+      "wape": 0.5970078237871479,
+      "bias_ratio": -0.08767400864475554,
+      "mase_lag1": 0.6568913330948234
+    },
+    {
+      "model": "Recent mean (8 weeks)",
+      "mae": 277.02578125,
+      "wape": 0.601580154588454,
+      "bias_ratio": -0.1006487557597432,
+      "mase_lag1": 0.6660605757561892
+    },
+    {
+      "model": "Ridge lag regression",
+      "mae": 346.43136992699476,
+      "wape": 0.7522990681033281,
+      "bias_ratio": 0.28445791160211475,
+      "mase_lag1": 0.756127183530365
+    },
+    {
+      "model": "Seasonal naive (52 weeks)",
+      "mae": 580.890625,
+      "wape": 1.261443142258023,
+      "bias_ratio": 0.7590917419363595,
+      "mase_lag1": 1.2229628442047118
+    },
+    {
+      "model": "Selected per SKU",
+      "mae": 362.13400945844126,
+      "wape": 0.7863984081508506,
+      "bias_ratio": 0.2053446301508968,
+      "mase_lag1": 0.7799968253321954
+    }
+  ],
+  "test_four_week_empirical_band_coverage": 0.8625,
+  "inventory_scenarios": 27,
+  "inventory_weeks_per_sku": 16,
+  "series_scales_lag1": {
+    "15036": 428.3968253968254,
+    "17003": 1178.095238095238,
+    "20725": 154.5873015873016,
+    "21212": 488.55555555555554,
+    "21213": 314.0952380952381,
+    "21232": 223.1904761904762,
+    "21977": 266.87301587301585,
+    "21982": 679.0,
+    "22197": 523.4761904761905,
+    "84077": 1059.3809523809523,
+    "84270": 295.12698412698415,
+    "84347": 551.4761904761905,
+    "84568": 415.3015873015873,
+    "84755": 239.84126984126985,
+    "84879": 506.1746031746032,
+    "84946": 193.85714285714286,
+    "84991": 278.3492063492063,
+    "85099B": 461.76190476190476,
+    "85099F": 230.44444444444446,
+    "85123A": 492.6190476190476
+  },
+  "series_training_means": {
+    "15036": 340.96875,
+    "17003": 822.265625,
+    "20725": 310.53125,
+    "21212": 816.234375,
+    "21213": 381.234375,
+    "21232": 421.296875,
+    "21977": 445.453125,
+    "21982": 413.0625,
+    "22197": 562.875,
+    "84077": 947.3125,
+    "84270": 339.828125,
+    "84347": 364.171875,
+    "84568": 335.78125,
+    "84755": 371.5,
+    "84879": 713.1875,
+    "84946": 340.59375,
+    "84991": 470.1875,
+    "85099B": 794.9375,
+    "85099F": 327.90625,
+    "85123A": 971.234375
+  }
+}

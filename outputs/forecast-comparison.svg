@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="396pt" viewBox="0 0 792 396" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-11T19:12:06.122133</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 396 
+L 792 396 
+L 792 0 
+L 0 0 
+z
+" style="fill: #f7f7f2"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 235.34 315.42 
+L 780.12 315.42 
+L 780.12 68.76 
+L 235.34 68.76 
+z
+" style="fill: #f7f7f2"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 235.34 315.42 
+L 235.34 68.76 
+" clip-path="url(#pdd7621499f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="235.34" y="327.278281" transform="rotate(-0 235.34 327.278281)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 310.482069 315.42 
+L 310.482069 68.76 
+" clip-path="url(#pdd7621499f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="310.482069" y="327.278281" transform="rotate(-0 310.482069 327.278281)">20</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 385.624138 315.42 
+L 385.624138 68.76 
+" clip-path="url(#pdd7621499f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="385.624138" y="327.278281" transform="rotate(-0 385.624138 327.278281)">40</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 460.766207 315.42 
+L 460.766207 68.76 
+" clip-path="url(#pdd7621499f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="460.766207" y="327.278281" transform="rotate(-0 460.766207 327.278281)">60</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 535.908276 315.42 
+L 535.908276 68.76 
+" clip-path="url(#pdd7621499f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="535.908276" y="327.278281" transform="rotate(-0 535.908276 327.278281)">80</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 611.050345 315.42 
+L 611.050345 68.76 
+" clip-path="url(#pdd7621499f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="611.050345" y="327.278281" transform="rotate(-0 611.050345 327.278281)">100</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 686.192414 315.42 
+L 686.192414 68.76 
+" clip-path="url(#pdd7621499f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="686.192414" y="327.278281" transform="rotate(-0 686.192414 327.278281)">120</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 761.334483 315.42 
+L 761.334483 68.76 
+" clip-path="url(#pdd7621499f)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="761.334483" y="327.278281" transform="rotate(-0 761.334483 327.278281)">140</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="507.73" y="341.924219" transform="rotate(-0 507.73 341.924219)">Final-test WAPE (%) · lower is better</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_17"/>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="231.84" y="296.37466" transform="rotate(-0 231.84 296.37466)">52-week seasonal naive</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_18"/>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="231.84" y="256.332452" transform="rotate(-0 231.84 256.332452)">Per-SKU model selection</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_19"/>
+     <g id="text_12">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="231.84" y="216.290245" transform="rotate(-0 231.84 216.290245)">Ridge lag regression</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_20"/>
+     <g id="text_13">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="231.84" y="176.248037" transform="rotate(-0 231.84 176.248037)">Croston SBA</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_21"/>
+     <g id="text_14">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="231.84" y="136.205829" transform="rotate(-0 231.84 136.205829)">Eight-week mean (validation champion)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_22"/>
+     <g id="text_15">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="231.84" y="96.163621" transform="rotate(-0 231.84 96.163621)">Exponential smoothing</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 235.34 304.208182 
+L 709.277238 304.208182 
+L 709.277238 280.182857 
+L 235.34 280.182857 
+z
+" clip-path="url(#pdd7621499f)" style="fill: #167e83"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 235.34 264.165974 
+L 530.798017 264.165974 
+L 530.798017 240.140649 
+L 235.34 240.140649 
+z
+" clip-path="url(#pdd7621499f)" style="fill: #bf792f"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 235.34 224.123766 
+L 517.986542 224.123766 
+L 517.986542 200.098442 
+L 235.34 200.098442 
+z
+" clip-path="url(#pdd7621499f)" style="fill: #167e83"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 235.34 184.081558 
+L 462.149884 184.081558 
+L 462.149884 160.056234 
+L 235.34 160.056234 
+z
+" clip-path="url(#pdd7621499f)" style="fill: #167e83"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 235.34 144.039351 
+L 461.359887 144.039351 
+L 461.359887 120.014026 
+L 235.34 120.014026 
+z
+" clip-path="url(#pdd7621499f)" style="fill: #167e83"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 235.34 103.997143 
+L 459.642015 103.997143 
+L 459.642015 79.971818 
+L 235.34 79.971818 
+z
+" clip-path="url(#pdd7621499f)" style="fill: #167e83"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="715.664314" y="294.954894" transform="rotate(-0 715.664314 294.954894)">126.1%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="537.185093" y="254.912687" transform="rotate(-0 537.185093 254.912687)">78.6%</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="524.373618" y="214.870479" transform="rotate(-0 524.373618 214.870479)">75.2%</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="468.53696" y="174.828271" transform="rotate(-0 468.53696 174.828271)">60.4%</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="467.746963" y="134.786063" transform="rotate(-0 467.746963 134.786063)">60.2%</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="466.029091" y="94.743856" transform="rotate(-0 466.029091 94.743856)">59.7%</text>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 18px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #132d3a" x="15.84" y="21.597188" transform="rotate(-0 15.84 21.597188)">Complexity did not improve this sales forecast.</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #526b75" transform="translate(15.84 376.882187)">20 training-selected SKUs · 16 final-test weeks · WAPE is an error ratio, not accuracy.</text>
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #526b75" transform="translate(15.84 388.08)">The champion was chosen in the earlier selection period; the test did not choose it.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdd7621499f">
+   <rect x="235.34" y="68.76" width="544.78" height="246.66"/>
+  </clipPath>
+ </defs>
+</svg>
